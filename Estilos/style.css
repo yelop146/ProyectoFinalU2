@@ -1,0 +1,103 @@
+.pie{
+    background: rgb(180, 178, 178);
+}
+
+.redes{
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+}
+
+.icono{
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.icono1{
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.icono2{
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
+
+
+.parrafo1{
+    justify-content: center;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.parrafo2{
+    justify-content: center;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.parrafo3{
+    justify-content: center;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.parrafo4{
+    justify-content: center;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.parrafo5{
+    justify-content: center;
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+
+
+.textoacordion1{
+    text-align: justify;
+    color: white;
+    background: black;
+}
+
+.textoacordion2{
+    text-align: justify;
+    color: white;
+    background: black;
+}
+
+.textoacordion3{
+    text-align: justify;
+    color: white;
+    background: black;
+}
+
+.titulo1{
+    font-family: segoe print;
+}
+
+.titulo2{
+    font-family: segoe print;
+}
+
+.titulo3{
+    font-family: segoe print;
+}
+
+body{
+    background: rgba(219, 208, 208, 0.877) !important;
+}
+
